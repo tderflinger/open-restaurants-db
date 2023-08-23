@@ -4,7 +4,7 @@ Open-restaurants-db is a database of restaurants in Europe. It is open source an
 
 ## Description
 
-Currently, there is a list of restaurants in Linz, Austria available.
+Currently, there is a list of restaurants in Linz, Austria and Augsburg, Germany available.
 
 The data is available as a CSV file with the following fields:
 
@@ -19,6 +19,10 @@ The data is available as a CSV file with the following fields:
 ## Plan
 
 We plan to cover as many cities of Europe as possible.
+
+## Contribute
+
+Seen any omissions or errors? Please let us know by opening an issue or a pull request.
 
 ## License
 
